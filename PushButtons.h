@@ -3,8 +3,8 @@
 #include "Arduino.h"
 
 ///////////////////////////////////////////////////////////////////////////\\ 
-//  Library: PushButtons                                                    ||
-//  Created by Gudjon Holm Sigurdsson - gudjonholm@gmail.com - guttih.com   ||
+//  Library: PushButtons:            https://github.com/guttih/PushButtons  ||
+//  Created by Gudjon Holm Sigurdsson -  gudjonholm@gmail.com - guttih.com  ||
 //                                                                          ||
 //  Use this library if you need to connect many pushbuttons to the Arduino ||
 //                                                                         //
