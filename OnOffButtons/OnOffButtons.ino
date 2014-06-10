@@ -1,6 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////\\
 //                                                                          ||
 //  Example sketch - OnOffButtons.ino for library PushButtons               ||
+//                   http://github.com/guttih/PushButtons                   ||
 //  Created by Gudjon Holm Sigurdsson - gudjonholm@gmail.com - guttih.com   ||
 //                                                                          ||
 //  This example shows how to use 2 buttons to turn on and off led 13.      ||
