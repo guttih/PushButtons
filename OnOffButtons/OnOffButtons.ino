@@ -40,7 +40,8 @@ PushButtons buttons(digitalPins, sizeof(digitalPins));
 const int ledPin = 13;
 int ledStateOut = HIGH;
 
-void setup() {  
+void setup() { 
+  Serial.begin(57600); 
   pinMode(ledPin, OUTPUT);
   digitalWrite(ledPin, ledStateOut);
   buttons.init();
