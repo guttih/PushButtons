@@ -29,10 +29,10 @@ A library which helps you to connect and use many push-buttons with Arduino.
         ||                     +5V volt'       '---[10K ohm]--'GND                  ||
         \\                                                                         //
          \\                                                                       //
-          \\      Push button     Connects to                                    //
-           \\     ------------    -------------------------------------------   //
-            \\    Top right        Arduino digital pin 6                       //
-             \\   Bottom left      +5V on Arduino                             //
-              \\  Bottom right     10K resistor and then to ground on Arduino//
+          \\     Push button     Connects to                                     //
+           \\    ------------    -------------------------------------------    //
+            \\   Top right        Arduino digital pin 6                        //
+             \\  Bottom left      +5V on Arduino                              //
+              \\ Bottom right     10K resistor and then to ground on Arduino //
                \\                             /\                            //
                 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\//////////////////////////////
