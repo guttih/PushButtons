@@ -1,14 +1,15 @@
-            ///////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-           //                                 \/                                \\
-          //                                                                     \\
-         //                              PushButtons                              \\
-        //                            A library for Arduino                        \\
-        ||                                                                          \\
-        ||  Usage:                                        Created by:               ||
-        ||    Use this library if you need to connect       Gudjon Holm Sigurdsson  ||
-        ||    many push-buttons to Arduino.                 gudjonholm@gmail.com    ||
-        ||                                                  http://guttih.com       ||
-        ||                                                                          ||
+PushButtons
+===========
+A library which helps you to connect and use many push-buttons with Arduino.
+
+          /////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+         //                                   \/                                   \\
+        //                                                                          \\
+        ||                                Created by                                ||
+        ||                                                                          || 
+        ||         gudjonholm@gmail.com                http://guttih.com            || 
+        ||                                                                          || 
+        ||                           Gudjon Holm Sigurdsson                         || 
         \\                                                                          //
          \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\          /////////////////////////////////
            --------------------------------        --------------------------------
