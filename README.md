@@ -2,6 +2,12 @@ PushButtons
 ===========
 A library which helps you to connect and use many push-buttons with Arduino.
 
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EDUDoRcx998
+" target="_blank"><img src="http://img.youtube.com/vi/EDUDoRcx998/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="320" border="10" /></a>
+</p>
+
           /////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
          /////////////////////////////////////  \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
         //                                   \  /                                   \\
