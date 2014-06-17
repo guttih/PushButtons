@@ -35,7 +35,7 @@
 
 #include "PushButtons.h"
 
-byte digitalPins[] = {6, 7, 8, 9, 10}; //You can of select other digital pins, if you like
+byte digitalPins[] = {6, 7, 8, 9, 10}; //You can select other digital pins, if you like
 
 PushButtons buttons(digitalPins, sizeof(digitalPins));
 
@@ -52,11 +52,11 @@ void loop() {
   i=buttons.checkButtons();
   switch(i)
   {
-    case 1: ledStateOut=true;   break;
-    case 2: ledStateOut=false;  break;
-    case 3: ledStateOut=true;   break;
-    case 4: ledStateOut=false;  break;
-    case 5: ledStateOut=true;   break;
+    case 1: ledStateOut=HIGH; break;
+    case 2: ledStateOut=LOW;  break;
+    case 3: ledStateOut=HIGH; break;
+    case 4: ledStateOut=LOW;  break;
+    case 5: ledStateOut=HIGH; break;
   }   
   digitalWrite(ledPin, ledStateOut);
 }
