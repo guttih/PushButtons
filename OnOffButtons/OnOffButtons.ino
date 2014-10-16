@@ -5,7 +5,7 @@
 //  Created by Gudjon Holm Sigurdsson - gudjonholm@gmail.com - guttih.com   ||
 //                                                                          ||
 //  This example shows how to use 2 buttons to turn on and off led 13.      ||
-//  For this sketch, you will need to connect 5 push buttons as shown below,|| 
+//  For this sketch, you will need to connect 2 push buttons as shown below,|| 
 //  to digital pins 6 and 7 on the Arduino.                                 ||
 //                                                                         //
 ////////////////////////////////////////////////////////////////////////////
